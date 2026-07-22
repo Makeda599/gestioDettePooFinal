@@ -1,0 +1,13 @@
+{
+    "name": "makeda/gestiondette-poo",
+    "description": "Application de gestion de dette clients - architecture MVC en POO",
+    "type": "project",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
